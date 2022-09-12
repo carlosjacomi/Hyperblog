@@ -1,3 +1,5 @@
 Soy Carlos Contreras aprendiz de git
 
 y esta es mi historia de mi en tajibo
+
+este es un nuevo proyecto open source donde estoy colaborando
